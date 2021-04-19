@@ -1,5 +1,7 @@
 ## Vacinas Covid-19: Lab-06 Projeto de Software
 
+** Observação: Para executar o código, o main encontra-se na pasta "Sistema" **
+
 #### Descrição do Projeto:
 > Implemente em Java um sistema de vacinação para a COVID-19, usando o padrão State. Não é necessário implementar persistência de dados e interface gráfica (apenas textual). Seu sistema deverá contemplar os requisitos listados abaixo.
 > Uma pessoa não habilitada se habilita automaticamente para a 1a dose se sua idade, profissão ou comorbidade for habilitada pelo governo para tomar a 1a dose.
